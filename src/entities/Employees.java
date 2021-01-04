@@ -45,6 +45,6 @@ public class Employees {
  				+ ", "
  				+ name
  				+ ", "
- 				+ salary;
+ 				+ String.format("%.2f", salary);
  	}
 }
