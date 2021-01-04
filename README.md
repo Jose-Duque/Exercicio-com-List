@@ -21,7 +21,7 @@ ser mudado livremente. Um salário só pode ser aumentado com base em uma opera�
 aumento por porcentagem dada.
 
 
-## Modelo
+## Modelo 1
 How many employees will be registered? 3
 
 Emplyoee #1:
@@ -60,6 +60,7 @@ List of employees:
 
 772, Bob Green, 5000.00
 
+## Modelo 2
 How many employees will be registered? 2
 
 Emplyoee #1:
